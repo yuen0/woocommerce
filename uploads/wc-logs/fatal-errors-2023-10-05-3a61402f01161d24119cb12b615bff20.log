@@ -1,0 +1,160 @@
+2023-10-05T06:35:32+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php on line 5
+
+2023-10-05T08:01:34+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php on line 5
+
+2023-10-05T08:24:03+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php on line 5
+
+2023-10-05T08:24:09+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/page.php on line 5
+
+2023-10-05T08:24:11+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/page.php on line 5
+
+2023-10-05T08:24:12+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/page.php on line 5
+
+2023-10-05T08:24:13+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/page.php on line 5
+
+2023-10-05T08:24:14+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/page.php on line 5
+
+2023-10-05T08:24:15+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/page.php on line 5
+
+2023-10-05T08:24:55+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php on line 5
+
+2023-10-05T08:26:57+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php on line 5
+
+2023-10-05T08:34:52+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php on line 5
+
+2023-10-05T08:47:05+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php on line 5
+
+2023-10-05T08:47:08+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php on line 5
+
+2023-10-05T09:52:39+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php on line 5
+
+2023-10-05T09:52:40+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php on line 5
+
+2023-10-05T09:52:40+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php on line 5
+
+2023-10-05T09:52:41+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php on line 5
+
+2023-10-05T09:52:41+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php on line 5
+
+2023-10-05T16:28:26+00:00 CRITICAL Uncaught Error: Call to undefined function have_rows() in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php:5
+Stack trace:
+#0 /home/lcwuljhg/public_html/thestore/wp-includes/template-loader.php(106): include()
+#1 /home/lcwuljhg/public_html/thestore/wp-blog-header.php(19): require_once('/home/lcwuljhg/...')
+#2 /home/lcwuljhg/public_html/thestore/index.php(17): require('/home/lcwuljhg/...')
+#3 {main}
+  thrown in /home/lcwuljhg/public_html/thestore/wp-content/themes/Fashionista Theme/front-page.php on line 5
+
